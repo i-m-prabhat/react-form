@@ -1,7 +1,7 @@
 # react-form
 Form Validation in react
 
-## <a href="https://reactformbydg.netlify.app/"e>Deployment</a>
+## <a href="https://reactformbydg.netlify.app/">Deployment</a>
 
 ## Snapshots
 
