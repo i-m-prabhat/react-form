@@ -11,6 +11,7 @@
 }
 
 .inputField span {
+    display: none;
     font-size: 14px;
 }
 
@@ -23,4 +24,9 @@
     padding: 0 10px;
     color: black;
     font-size: 16px;
+}
+
+.inputField input:invalid[focused="true"]~span {
+    color: red;
+    display: block;
 }
